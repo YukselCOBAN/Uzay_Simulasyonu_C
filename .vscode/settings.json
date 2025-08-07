@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "gezegen.h": "c",
+        "dosyaokuma.h": "c",
+        "globaldegiskenler.h": "c",
+        "uzayaraci.h": "c",
+        "zaman.h": "c",
+        "buzdevigezegen.h": "c"
+    },
+    "git.ignoreLimitWarning": true
+}
